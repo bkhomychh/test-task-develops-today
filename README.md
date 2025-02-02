@@ -32,7 +32,7 @@ Ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   	git clone https://github.com/bkhomychh/test-task-develops-today.git
+   git clone https://github.com/bkhomychh/test-task-develops-today.git
    ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ Ensure you have the following installed:
 3. Install the dependencies:
 
    ```bash
-   	npm install
+   npm install
    ```
 
 ## Scripts
