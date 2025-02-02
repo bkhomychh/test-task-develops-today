@@ -24,7 +24,9 @@ export default function Page() {
   }, []);
 
   useEffect(() => {
-    fetchVehicles().then(data => setVehicles(data));
+    fetchVehicles()
+      .then(data => setVehicles(data))
+      .catch(err => console.log(err));
   }, []);
 
   return (
