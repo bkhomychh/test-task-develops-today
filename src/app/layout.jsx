@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'test-task-develops-today',
+  title: 'Car Dealer App',
 };
 
 export default function RootLayout({ children }) {
